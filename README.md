@@ -4,4 +4,4 @@ A collection of mini machine learning projects I made while learning the basics,
 
 ## Datasets Used
 - Diabetes Prediction: [Diabetes prediction dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
-- Cars Classification: [Stanford cars dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/code?datasetId=30084&sortBy=voteCount)
+- Car Classification: [Stanford cars dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset/code?datasetId=30084&sortBy=voteCount) and [Stanford cars fixed metadata](https://www.kaggle.com/datasets/abdelrahmant11/standford-cars-dataset-meta)
