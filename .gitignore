@@ -1,3 +1,12 @@
+#car images
+cars-classification/cardata/cars_test/*
+cars-classification/cardata/cars_train/*
+
+#Settings
+.vscode
+.jupyter/desktop-workspaces
+.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
